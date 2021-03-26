@@ -1,0 +1,17 @@
+p{
+    font-size: 20px;
+    color: blue;
+}
+img{
+    font-size: 10px;
+    
+
+}
+vid{
+    font-size: 50px;
+} 
+.para{
+    width: 70%;
+    margin: auto;
+    border: 1px solid red;
+}
